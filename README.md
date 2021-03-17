@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jakub Strzelecki 22.
+- 👋 Hi, I’m @kubast2 22.
 - 👀 Looking to get in control and reduce distractions.
 - 🌱 I’m currently learning, how to get myself together.
 - 💞️ I still need to learn, how to make small chunked commits without rewritting my changes.
